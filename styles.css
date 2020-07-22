@@ -1,0 +1,18 @@
+body {
+    background-color: #EAf6f6; 
+}
+h1 {
+    color: #fc7978; 
+    font: 60px/0.05 'Cookie', Helvetica, sans-serif;
+ }
+ h3 {
+     color: #ffafb0;
+     font: 30px/0.05 'Cookie', Helvetica, sans-serif;
+ }
+hr {           
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 5%;
+}
